@@ -5,7 +5,7 @@ title: "TOR HM"
 
 ## Portfolio
 
-Designer, visual artist & enabler
+Designer, visual artist
 
 [Twisted Frequency]({{ site.baseurl }}{% link work/twistedfrequency.md %})
 
